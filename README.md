@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Maryam Bibi (Manno)
+### 👋 Hi, I'm Maryam 
 
 🚀 Final-Year CS Student | Python Developer | AI/ML & Remote Sensing Enthusiast
 
@@ -26,7 +26,3 @@ Currently exploring Cloud Computing and building practical, portfolio-ready proj
 
 ### 🏆 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam1396-svg&layout=compact&theme=radical)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
