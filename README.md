@@ -23,7 +23,14 @@ Currently exploring Cloud Computing and building practical, portfolio-ready proj
 ![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam1396-svg&show_icons=true&theme=radical)
 <!--
 **maryam1396-svg/maryam1396-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats:
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam1396-svg&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+### 🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maryam1396-svg&theme=radical)
+
+### 🏆 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam1396-svg&layout=compact&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
