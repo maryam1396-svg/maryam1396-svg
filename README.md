@@ -1,5 +1,4 @@
-
-### 👋 Hi, I'm Maryam Bibi
+### 👋 Hi, I'm Maryam Bibi (Manno)
 
 🚀 Final-Year CS Student | Python Developer | AI/ML & Remote Sensing Enthusiast
 
@@ -20,10 +19,6 @@ Currently exploring Cloud Computing and building practical, portfolio-ready proj
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maryam-6b6a1a351)
 
 ### 📊 GitHub Stats:
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam1396-svg&show_icons=true&theme=radical)
-<!--
-**maryam1396-svg/maryam1396-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 📊 GitHub Stats:
 ![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam1396-svg&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 🔥 Streak Stats:
@@ -31,13 +26,6 @@ Currently exploring Cloud Computing and building practical, portfolio-ready proj
 
 ### 🏆 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam1396-svg&layout=compact&theme=radical)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
